@@ -16,3 +16,8 @@ whisper_models/*
 thinking.py
 temp.py
 *.npy
+*.dat
+*.so
+venv
+crash_context_v1
+.vscode

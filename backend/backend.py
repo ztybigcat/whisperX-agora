@@ -2,7 +2,6 @@ from fastapi import FastAPI, APIRouter, Body, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from uuid import uuid4
 import whisperx
-import webrtc
 import uvicorn
 import asyncio
 
